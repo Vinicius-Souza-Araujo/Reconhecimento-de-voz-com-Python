@@ -1,6 +1,6 @@
-# Antes de rodar o código instale as seguintes bibliotecas: SpeechRecognition e  PyAudio
+# Antes de rodar o código instale as seguintes bibliotecas: SpeechRecognition e  PyAudio.
 
-#Começo do código
+#Começo do código.
 
 #Importe a biblioteca abaixo:
 import speech_recognition as sr
