@@ -1,2 +1,2 @@
 # Reconhecimento-de-voz-com-Python
-O código feito em Pyhton capta o audio e o transforma em texto.
+O código feito em Pyhton capta o áudio e o transforma em texto.
